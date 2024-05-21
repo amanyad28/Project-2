@@ -1,6 +1,6 @@
 Here's a short introduction in 3-4 lines for a digital clock project using HTML, CSS, and JavaScript:
 
-**Built a digital clock using HTML, CSS, and JavaScript. This project displays the current time in a user-friendly format and refreshes automatically.** (4 lines)
+**Built a digital clock using HTML, CSS, and JavaScript. This project displays the current time in a user-friendly format and refreshes automatically.
 
 This introduction highlights:
 
